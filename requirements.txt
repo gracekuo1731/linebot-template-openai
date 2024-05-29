@@ -2,4 +2,3 @@ line-bot-sdk==3.5.0
 fastapi
 uvicorn[standard]
 openai==0.28.1
-gunicorn
